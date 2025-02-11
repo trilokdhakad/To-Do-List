@@ -22,20 +22,16 @@ body {
   padding: 6px;
 }
 
-.add-todo-button {
+.add-todo-button,
+.delete-todo-button {
   background-color: green;
   color: white;
   border: none;
   font-size: 15px;
   cursor: pointer;
+  padding: 6px;
 }
 
 .delete-todo-button {
   background-color: darkred;
-  color: white;
-  border: none;
-  font-size: 15px;
-  cursor: pointer;
-  padding-top: 10px;
-  padding-bottom: 10px;
 }
