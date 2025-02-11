@@ -1,10 +1,3 @@
-/* Main Idea:
-1) Save the data
-2) Generate the HTML
-3) Make it Interactive
- */
-
-
 
 
 export const todoList = []; // Array of todo objects
